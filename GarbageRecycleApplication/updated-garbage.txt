@@ -1,0 +1,80 @@
+cream cheese packet,plastic,2
+cookie  packet,plastic,3
+chips packet,plastic,4
+peach peel,organic,8
+water bottle,plastic,9
+melon peel,organic,1
+coffee  packet,plastic,6
+turnip peel,organic,3
+butter  packet,plastic,2
+olive  packet,plastic,3
+peanut  packet,plastic,4
+bacon  packet,plastic,2
+yogurt  packet,plastic,3
+milk bottle,plastic,2
+carrot peel,organic,5
+chocolate packet,plastic,3
+mushroom  packet,plastic,2
+Fork,plastic,7
+knife,plastic,6
+appricot peel,organic,4
+Spoon,plastic,5
+eggplant peel,organic,5
+plate,plastic,6
+cup,plastic,5
+tissue,paper,3
+kiwi peel,organic,7
+tea packet,paper,1
+grape capstem,organic,2
+salt packet,paper,3
+sugar packet,paper,4
+hazelnut peel,organic,14
+bunch of rucola,organic,3
+muffin packet,paper,2
+brownie packet,paper,3
+paper towel,paper,3
+table cover,paper,4
+tangerine peel,organic,4
+avocado peel,organic,2
+mineral water bottle,glass,6
+wine glass,glass,6
+pineapple peel,organic,3
+ayran bottle,glass,5
+beer bottle,glass,11
+mug,glass,6
+bowl,glass,9
+wine bottle,glass,5
+olive oil bottle,glass,13
+pickle jar,glass,5
+socks,fabric,3
+trousers,fabric,8
+t-shirt,fabric,5
+tablecloth,fabric,4
+scarf,fabric,2
+tuna can,metal,8
+pineapple can,metal,6
+Ladle,metal,6
+colander,metal,3
+pan,metal,8
+bean can,metal,6
+tomato paste can,metal,4
+pea can,metal,5
+banana peel,organic,6
+potato peel,organic,9
+slice of cheese,organic,9
+loaf of bread,organic,3
+tomato peel,organic,6
+cucumber peel,organic,3
+green pepper,organic,5
+red pepper,organic,5
+slice of salami,organic,9
+orange peel,organic,5
+egg,organic,10
+lettuce,organic,1
+bunch of parsley,organic,2
+onion peel,organic,5
+apple peel,organic,3
+lemon peel,organic,5
+pear peel,organic,5
+watermelon peel,organic,1
+walnut peel,organic,6
